@@ -1,0 +1,13 @@
+.ten-discount {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.ten-discount a {
+    text-decoration: none;
+    color: rgb(47, 113, 212);
+}

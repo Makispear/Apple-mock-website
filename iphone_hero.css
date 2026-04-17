@@ -1,0 +1,49 @@
+.iphone-hero {
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  /* background styles */
+  background-image: url("./iphone-hero.jpg");
+  background-size: 190%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.iphone-hero h1 {
+  font-size: 3.5rem;
+}
+
+.iphone-hero h2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.iphone-hero button {
+  font-size: 1rem;
+  width: 130px;
+}
+
+.iphone-hero button:first-child {
+  color: white;
+  background-color: rgb(47, 113, 212);
+  padding: 10px;
+  border-width: 0;
+  border-radius: 20px;
+}
+
+.iphone-hero button:last-child {
+  color: rgb(47, 113, 212);
+  border: 1px solid rgb(47, 113, 212);
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.iphone-hero div {
+  display: flex;
+  width: 300px;
+  margin: 10px;
+  justify-content: space-around;
+}
