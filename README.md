@@ -1,3 +1,6 @@
+![screenshot of my landing page (APPLE MOCK)](./screenshot.png)
+
+
 
 # Apple Landing Page Clone
 
